@@ -40,5 +40,5 @@ Fonte: https://fred.stlouisfed.org/
 2. Crie um ambiente virtual para o seu projeto utilizando o conda.
 
     ```bash
-    conda env -f ambiente.yml --name estatistica
+    conda env -f ambiente.yml --name NOME
     ```
